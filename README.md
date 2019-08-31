@@ -29,6 +29,4 @@ if (hasFlag('help')) {
 }
 ```
 
-## License
-
-[MIT](./LICENSE.md)
+[LICENSE](./LICENSE.md)
