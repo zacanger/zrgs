@@ -7,5 +7,5 @@ const hasFlag = (flag) => incl(handleAbbrev(flag))
 
 module.exports = {
   hasFlag,
-  args
+  args,
 }
