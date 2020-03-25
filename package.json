@@ -1,7 +1,7 @@
 {
   "name": "zrgs",
   "description": "Tiny cli args module",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "author": {
     "email": "zac@zacanger.com",
     "name": "Zac Anger",
